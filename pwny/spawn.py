@@ -23,7 +23,7 @@ SOFTWARE.
 """
 
 import sys
-import getch
+from msvcrt import getch
 import ctypes
 import threading
 import selectors
