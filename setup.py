@@ -35,7 +35,7 @@ setup(name='pwny',
       packages=find_packages(),
       include_package_data=True,
       install_requires=[
-          'pex @ git+https://github.com/EntySec/Pex',
+          'pex @ git+https://github.com/EnderMinecraft/Pex',
           'pycryptodome'
       ],
       zip_safe=False
