@@ -106,7 +106,6 @@ if(MAIN)
                                            "-framework UIKitCore"
                                            "-framework AVFCapture"
                                            "-framework AVFCore"
-                                           "-framework AVFAudio"
                                            "-framework CoreMedia"
                                            "-framework CoreVideo"
                                            "-framework CoreGraphics"
